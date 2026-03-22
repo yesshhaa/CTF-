@@ -1,6 +1,12 @@
-# Web-Exploitation
+# 🚩 CTF Writeups
 
-Writeups for PicoCTF Web-Exploitation challenges.
+Personal collection of CTF challenge writeups.
 
-| Challenge | Difficulty | Points | Year |
-|---|---|---|---|
+## Platforms
+- [PicoCTF](./PicoCTF/)
+
+## Structure
+Each challenge has its own markdown file with a full walkthrough including tools used, thought process, and the flag.
+
+---
+*Happy hacking!*
