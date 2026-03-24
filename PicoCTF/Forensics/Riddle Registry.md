@@ -3,7 +3,7 @@
 
 ## Challenge Description
 
-![Challenge page](./assets/1__challenge.png)
+![Challenge page](./assets/1.png)
 
 We are given a PDF file described as a "Hidden Confidential Document." The hint suggests that the flag is hidden within the **metadata** of the file rather than its visible content.
 
@@ -13,7 +13,7 @@ We are given a PDF file described as a "Hidden Confidential Document." The hint 
 
 Opening the PDF shows a document full of random text and redacted sections designed to mislead you. The flag is **not** in the visible content.
 
-![PDF contents](./assets/2__pdf.png)
+![PDF contents](./assets/2.png)
 
 ---
 
@@ -29,7 +29,7 @@ exiftool confidential.pdf
 Author : cGljb0NURntwdXp6bDNkX20zdGFkYXRhX2YwdW5kIV9jMjA3MzY2OX0=
 ```
 
-![Exiftool output showing suspicious Author field](./assets/3__exiftool.png)
+![Exiftool output showing suspicious Author field](./assets/3.png)
 
 The **Author** field contains a suspicious string ending in `=` — a strong indicator of **Base64 encoding**.
 
@@ -47,7 +47,7 @@ I used **CyberChef** to decode the string:
 picoCTF{puzzl3d_m3tadata_f0und!_c2073669}
 ```
 
-![CyberChef decoding the Base64 string to reveal the flag](./assets/4__cyberchef.png)
+![CyberChef decoding the Base64 string to reveal the flag](./assets/4.png)
 
 ---
 
