@@ -133,15 +133,3 @@ Congratulations! You've recovered the original flag:
 ---
 
 
-## Key Takeaways
-
-- `nc` (Netcat) is the standard tool for interacting with CTF remote servers
-- `base64 -d` decodes Base64-encoded strings on Linux
-- `rev` reverses text line by line
-- `tr '-' '_'` swaps dashes back to underscores
-- `tr '()' '{}'` restores curly braces — argument order matters!
-- `tr 'A-Za-z' 'N-ZA-Mn-za-m'` is the standard ROT13 one-liner
-
----
-
-> 📁 Part of my CTF write-ups collection → [github.com/yesshhaa/CTF-](https://github.com/yesshhaa/CTF-/blob/main/PicoCTF)
