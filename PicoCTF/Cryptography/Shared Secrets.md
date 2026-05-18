@@ -11,7 +11,7 @@ This challenge involved a **Diffie-Hellman key exchange** where Bob's private ke
 
 </div>
 
-![Challenge Overview](./assets/Screenshot_2026-05-17_231954.png)
+![Challenge Overview](./assets/1.png)
 
 ---
 
@@ -76,7 +76,7 @@ print("Decrypted flag:", flag.decode())
 EOF
 ```
 
-![Writing the script in terminal](./assets/Screenshot_2026-05-17_232055.png)
+![Writing the script in terminal](./assets/2.png)
 
 ---
 
@@ -94,7 +94,7 @@ python3 decrypt_flag.py
 Decrypted  the flag
 ```
 
-![Flag recovered in terminal](./assets/Screenshot_2026-05-17_232117.png)
+![Flag recovered in terminal](./assets/3.png)
 
 ---
 
