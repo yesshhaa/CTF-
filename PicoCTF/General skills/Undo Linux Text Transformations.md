@@ -8,10 +8,7 @@ The objective was to **connect to the server**, read each step's hint, and **rev
 
 <div align="center">
 
-![Category](https://img.shields.io/badge/Category-General%20Skills-blue?style=for-the-badge)
-![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen?style=for-the-badge)
-![Points](https://img.shields.io/badge/Points-100-yellow?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Solved%20✓-success?style=for-the-badge)
+
 
 </div>
 
