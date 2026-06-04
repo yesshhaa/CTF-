@@ -31,7 +31,7 @@ number → letter position in alphabet
  
 Downloaded `numbers.png` and opened it. The image contained a sequence of numbers.
  
-![numbers.png contents](./assets/3-2.png)
+![numbers.png contents](./assets/4-2.png)
  
 ---
  
@@ -39,7 +39,7 @@ Downloaded `numbers.png` and opened it. The image contained a sequence of number
  
 Mapped each number to its letter:
 
-![CMapping overview images](./assets/4-3.png)
+![Mapping overview images](./assets/4-3.png)
  
  
 ```
