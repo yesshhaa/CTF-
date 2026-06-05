@@ -144,4 +144,3 @@ Real password storage needs **bcrypt**, **scrypt**, or **Argon2** with proper sa
 
 The flag spells it out: `UseStr0nG_h@shEs_&PaSswDs!`
 
-**Tools used:** `nc`, [CrackStation](https://crackstation.net), Kali Linux
